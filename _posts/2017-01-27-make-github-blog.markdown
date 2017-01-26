@@ -7,5 +7,4 @@ categories: jekyll update
 
 With Jekyll and Github Blog Support System
 
-Reference
-[xho95's Wsift Life](https://xho95.github.io/blog/github/jekyll/git/2016/01/11/Make-a-blog-with-Jekyll.html)
+Reference : [xho95's Wsift Life](https://xho95.github.io/blog/github/jekyll/git/2016/01/11/Make-a-blog-with-Jekyll.html)
