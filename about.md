@@ -11,3 +11,5 @@ Study Group Member List
 {% include icon-github.html username="charlesjeonewoo" %}
 
 {% include icon-github.html username="kingsj0405" %}
+
+{% include icon-github.html username="harleyjo" %}
