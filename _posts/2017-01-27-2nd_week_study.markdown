@@ -8,12 +8,13 @@ categories: jekyll update
 Charles : open Inventor, STL file Structure, STL file Reader
 
 Jully : Artistic Way
+
 	- Date by myself
 		- Drawing
 	- Morning Paper
 		- Three page per day
 
-Hally : Install Ubuntu, Will do Tensorflow
+Harley : Install Ubuntu, Will do Tensorflow
 
 Angelo
 	- Procedding Pintos Project 1

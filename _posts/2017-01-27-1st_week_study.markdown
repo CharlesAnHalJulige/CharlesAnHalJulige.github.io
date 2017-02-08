@@ -7,9 +7,10 @@ categories: jekyll update
 
 Charles : do xml parsing, how about web crawling?
 
-Hally : Harmonics with Guitar code, OpenSource for Artists
+Harley : Harmonics with Guitar code OpenSource for Artists
 
 Jully : Artistic Way
+
 	- Date by myself
 	- Morning Paper
 	- Mission
