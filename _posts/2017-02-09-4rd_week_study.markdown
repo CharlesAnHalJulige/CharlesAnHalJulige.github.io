@@ -5,7 +5,7 @@ categories: jekyll update
 ---
 
 Ian : 요리 
-     1. 토스트 (아보카도, 소금, 달걀)
+1. 토스트 (아보카도, 소금, 달걀)
      2. Guocamole (아보카도, 토마토, 레몬, 소금 등등)
      3. Paenne Pasta (올리브 오일, 화이트 와인, Clam)
 
