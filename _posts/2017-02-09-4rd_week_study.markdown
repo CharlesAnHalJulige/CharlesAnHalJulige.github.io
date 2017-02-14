@@ -4,6 +4,8 @@ title:  "4rd Study Result"
 categories: jekyll update
 ---
 
+## Study Meeting Note
+
 Ian : Cooking
 
 
@@ -19,7 +21,7 @@ Name : Guocamole
 
 ![Image of Ian's cook](https://github.com/CharlesAnHalJulige/CharlesAnHalJulige.github.io/blob/master/_resources/Ian's_cook.jpeg?raw=true, "Ian's cook")
 
-(Ian's Blog : http://www.litlwing.net)
+Ian's Blog -> [Go!](http://www.litlwing.net)
 
 
 
