@@ -4,20 +4,21 @@ title:  "4rd Study Result"
 categories: jekyll update
 ---
 
-#### Ian : Cooking
+#### Ian
 
-- Toast (avocado, salt, eggs, end so on..)
+Cooking
 
-- Guocamole (avocado, tomato, lemon, salt, end so on..)
+1. Toast (avocado, salt, eggs, end so on..)
 
-- Paenne Pasta (Olive oil, White wine, Clam, end so on..)
+2. Guocamole (avocado, tomato, lemon, salt, end so on..)
+
+3. Paenne Pasta (Olive oil, White wine, Clam, end so on..)
 
 Image of Ian's Cook [ Name : Guocamole ]
 
 ![Image of Ian's cook](https://github.com/CharlesAnHalJulige/CharlesAnHalJulige.github.io/blob/master/_resources/Ian's_cook.jpeg?raw=true, "Ian's cook")
 
-##### Ian's Blog -> [Go!](http://www.litlwing.net)
-
+#### Ian's Blog -> [Go!](http://www.litlwing.net)
 
 
 #### Angelo 
@@ -49,7 +50,7 @@ Image of Ian's Cook [ Name : Guocamole ]
 
 #### Jully 
 
-- Artist Way 
+Artist Way 
 
 1. ArtistData (Mail from me, aged 80, having diabetes)
 
