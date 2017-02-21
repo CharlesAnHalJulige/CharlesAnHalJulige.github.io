@@ -25,3 +25,4 @@ categories: jekyll update
 
 #### Ian
 - Talked about Warcraft movie at PotCast. 'FilmClub'(,classic movie club). 'Badtaste'(,B-class movie club).
+##### The episode that Ian have participated.-> [Go!](http://cdn.podbbang.com/data1/badtaste/2017021603.mp3)
