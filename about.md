@@ -16,3 +16,4 @@ Study Group Member List
 
 {% include icon-github.html username="JullyPark" %}
 
+{% include icon-github.html username="kimthwing" %}
