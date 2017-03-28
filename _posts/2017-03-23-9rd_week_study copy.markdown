@@ -23,10 +23,10 @@ categories: jekyll update
 
 
 #### Harley 
-1. VIM + Python + Tensorflow
-	Make tutorial
-	Make mistake about Linux command
-		'rm -r ~/'
+1. VIM + Python + Tensorflow  
+	Make tutorial  
+	Make mistake about Linux command  
+	- 'rm -r ~/'
 
 
 #### Ian
