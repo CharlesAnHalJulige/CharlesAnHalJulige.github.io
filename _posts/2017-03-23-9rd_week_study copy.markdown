@@ -17,7 +17,7 @@ categories: jekyll update
 #### Charles 
 1. English Academy  
 	Can, will~
-2. Volunteer Activity
+2. Volunteer Activity  
 	Computer Basic for Making Email Account
 3. GIT, SSH vs HTTPS
 
@@ -36,3 +36,6 @@ categories: jekyll update
 1. Reading Books
 	- 역사속의 소프트웨어 오류
 	- 매달린 절벽에서 손을 땔 수 있는가?
+
+#### Paige
+1. Have a business trip to Germany for IDS.
