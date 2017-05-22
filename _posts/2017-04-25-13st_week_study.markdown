@@ -48,3 +48,7 @@ categories: jekyll update
 - 김성엽 [Blog](http://blog.naver.com/tipsware)
 	- Authof of ['Introduction to C'](https://www.kyobobook.co.kr/product/detailViewKor.laf?mallGb=KOR&ejkGb=KOR&barcode=9791187370703&orderClick=JAj)
 	- [비트맵에 대하여](http://blog.naver.com/tipsware/220984197835)
+
+
+
+
