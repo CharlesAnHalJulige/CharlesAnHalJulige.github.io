@@ -1,6 +1,6 @@
 ---
 layout: post
-title : "14th Study Result"
+title : "15th Study Result"
 catefoties : jekyll update
 ---
 #### Charles
