@@ -9,10 +9,12 @@ catefoties : jekyll update
 - Visited a han river twice
     - Got a picknick with wines with *CStar 
     - Went 뚝섬 with programming partners
+- book Reading
+    - 미움받을용기
 
 
 #### Harley
-ABSENCE for travel in Europe
+- ABSENCE for travel in Europe
 
 
 #### Angelo
@@ -21,7 +23,7 @@ ABSENCE for travel in Europe
     - 헌법의 약속 complete
     - 공무원의 자격
         - will give the book to his father :)
-- Subjob
+- Development
     - made Combini APP successfully 
     - Self PM and TL (was hard)
     - Andriod + wikitude AR
@@ -33,14 +35,14 @@ ABSENCE for travel in Europe
         - OBS Korea 
         - Anatomage (Invivo, Table, ..)
 - Statistics study for python
-- Reading a book
+- Book reading
     - '부동산은 끝났다' 작가 김수현
 
 
 #### Ian
-ABSENCE 
+- ABSENCE 
 
 
 #### Charles
-ABSENCE
+- ABSENCE
 
