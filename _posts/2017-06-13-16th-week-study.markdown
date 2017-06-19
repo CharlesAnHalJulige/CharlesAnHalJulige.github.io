@@ -10,8 +10,10 @@ catefoties : jekyll update
     - Got a picknick with wines with *CStar 
     - Went 뚝섬 with programming partners
 
+
 #### Harley
 ABSENCE for travel in Europe
+
 
 #### Angelo
 - book reading
@@ -41,3 +43,4 @@ ABSENCE
 
 #### Charles
 ABSENCE
+
