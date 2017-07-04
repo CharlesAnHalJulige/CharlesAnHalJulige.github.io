@@ -3,6 +3,7 @@ layout: post
 title : "17th Study Result"
 catefoties : jekyll update
 ---
+
 #### Jully
 - Virtualbox on super PC
   - Install Ubuntu
@@ -27,14 +28,14 @@ catefoties : jekyll update
 - Housing sale
   - Aircraft noise
 - Reading book
-  - Çö´ëÀÇ °æ°è¿¡¼­
+  - í˜„ëŒ€ì˜ ê²½ê³„ì—ì„œ
 
 #### Charles
 - Soccer
 - Volunteer
 - Reading book
-  - ´ëÅë·ÉÀ» ¸»ÇÏ´Ù
-  - Ç×¼ÛÀÌÀ¯¼­(À¯½Ã¹Î)
+  - ëŒ€í†µë ¹ì„ ë§í•˜ë‹¤
+  - í•­ì†¡ì´ìœ ì„œ(ìœ ì‹œë¯¼)
 
 #### Ian
 - Cloud Computing
