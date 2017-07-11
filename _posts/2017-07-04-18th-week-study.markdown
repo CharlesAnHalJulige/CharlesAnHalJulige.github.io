@@ -11,8 +11,8 @@ harley
  
  Charles
  
- -voluntary service
- -go to Catholic
+ - voluntary service
+ - go to Catholic
  
  Paige
  
@@ -25,6 +25,6 @@ harley
  
  Ian
  
- -Teach IaaS, PaaS, SaaS
+ - Teach IaaS, PaaS, SaaS
  
  
