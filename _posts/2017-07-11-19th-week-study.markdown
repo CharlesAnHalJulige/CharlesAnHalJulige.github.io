@@ -1,8 +1,10 @@
 Paige
-
+ - Read the book about descriptive statistics.
+ - Modern society uses high-pressure economy.
+ - The real estate is overed.
 
 Harley
-
+ - Studed Eigen Value, Eigne Vector.
 
 Charles
  - Planned what Mobile Applications.
@@ -10,10 +12,10 @@ Charles
  - Second Mobile Application subject is "Police and thief" with VR technology.
  
 Ian
-
+ - Explaned to we about cloud service.
 
 Angelo
- - Saw American Dramas.
+ - Saw three American Dramas.
  - Planned how to change his blog.
 
 Jully
