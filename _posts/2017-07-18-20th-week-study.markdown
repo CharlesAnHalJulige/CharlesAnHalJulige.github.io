@@ -1,6 +1,6 @@
 Charles
  - ImplantDB
- - How can We teaching 'Java' programing to children with the game 'Minecraft'.
+ - How can We teach 'Java' programing to children with the game 'Minecraft'.
  
 Paige
  - (absence)
