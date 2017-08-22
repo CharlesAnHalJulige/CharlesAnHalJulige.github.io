@@ -1,8 +1,9 @@
 ---
 layout: post
-title : "16th Study Result"
-catefoties : jekyll update
+title:  "16th Study Result"
+categories: jekyll update
 ---
+
 #### Jully
 - Linux for dummies
     - prepared clean PC

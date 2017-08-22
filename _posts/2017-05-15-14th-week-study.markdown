@@ -1,7 +1,7 @@
 ---
 layout: post
-title : "14th Study Result"
-catefoties : jekyll update
+title:  "14th Study Result"
+categories: jekyll update
 ---
 
 #### Harley

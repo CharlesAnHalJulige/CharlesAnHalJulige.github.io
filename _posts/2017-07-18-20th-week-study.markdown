@@ -1,3 +1,9 @@
+---
+layout: post
+title:  "20th Study Result"
+categories: jekyll update
+---
+
 Charles
  - ImplantDB
  - How can We teach 'Java' programing to children with the game 'Minecraft'.

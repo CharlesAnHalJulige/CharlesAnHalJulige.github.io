@@ -1,3 +1,9 @@
+---
+layout: post
+title:  "21th Study Result"
+categories: jekyll update
+---
+
 Charles
  - Made auto build scripts including 'SVN clean up, update, build'
  - Build a Implant DB

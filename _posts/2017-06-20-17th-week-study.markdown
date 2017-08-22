@@ -1,7 +1,7 @@
 ---
 layout: post
-title : "17th Study Result"
-catefoties : jekyll update
+title:  "17th Study Result"
+categories: jekyll update
 ---
 
 #### Jully

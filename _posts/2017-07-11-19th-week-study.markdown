@@ -1,3 +1,9 @@
+---
+layout: post
+title:  "19th Study Result"
+categories: jekyll update
+---
+
 Paige
  - Read the book about descriptive statistics.
  - Modern society uses high-pressure economy.

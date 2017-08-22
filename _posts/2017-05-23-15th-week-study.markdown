@@ -1,8 +1,9 @@
 ---
 layout: post
-title : "15th Study Result"
-catefoties : jekyll update
+title:  "15th Study Result"
+categories: jekyll update
 ---
+
 #### Charles
 ABSENCE..
 
