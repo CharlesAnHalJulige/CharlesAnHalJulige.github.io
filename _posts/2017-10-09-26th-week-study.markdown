@@ -16,17 +16,30 @@ categories: jekyll update
 - Doughsam
 
 #### Harley
-
+- Kaggle
+- 페르마의원리
+  - 미래확정
 
 #### Charles
-
+ - 독서
+ - Open GL Study
+ - 10년계획
 
 #### Jully
-
+ - Backjun Judge
+ - golf
+ - 사진전
+  - 전쟁
+  - 사람
+  - 운명
+  - 민주주의혁명
+  - 기아
 
 #### Paige
-- 
- - 문학비평
+- 눈높이
+- 문학비평
+- 팟캐스트
+- 영화
 
 #### ian
  - 베트남출장
