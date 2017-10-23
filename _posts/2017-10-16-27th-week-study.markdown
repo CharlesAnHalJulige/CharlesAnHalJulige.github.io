@@ -1,25 +1,34 @@
-Angelo
+---
+layout: post
+title:  "27th Study Result"
+categories: jekyll update
+---
 
-알고리즘
-Prefix Sum
-Segment Tree
-Fenwick Tree = BIT(Binary Index Tree)
-RMQ with Fenwick Tree
-MachineLearning
-mdwiki
-unit test
-Doughsam
-Harley
+#### Angelo
+- 알고리즘
+  - Prefix Sum
+  - Segment Tree
+  - Fenwick Tree = BIT(Binary Index Tree)
+  - RMQ with Fenwick Tree
+- MachineLearning
+- mdwiki
+  - unit test
+- Doughsam
 
-Charles
+#### Harley
 
-Jully
 
-Paige
+#### Charles
 
-문학비평
-ian
 
-베트남출장
-FPT
-CMC
+#### Jully
+
+
+#### Paige
+- 
+ - 문학비평
+
+#### ian
+ - 베트남출장
+  - FPT
+  - CMC
