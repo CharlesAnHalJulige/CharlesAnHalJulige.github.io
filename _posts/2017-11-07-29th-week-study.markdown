@@ -8,7 +8,7 @@ categories: jekyll update
 #### Angelo
 
 - Had a nice presentation about Block Chain with a PPT. 
-        - You can [get the PPT file]({{"/_resources/Block Chain(Angelo Yang).pdf"| "https://github.com/CharlesAnHalJulige.github.io/_resources/Block Chain(Angelo Yang).pdf"}})
+        - You can [get the PPT file](https://github.com/CharlesAnHalJulige/CharlesAnHalJulige.github.io/blob/e4adb8c7c4082cf5f6030aba9597a03bea51b969/_resources/Block%20Chain(Angelo%20Yang).pdf)
 
 
 #### Ian 
