@@ -8,7 +8,7 @@ This page also use following ruby gems for more features.
 - jekyll-sitemap: Google, Naver SEO
 - jekyll-admin: Admin page for our website
 
-Have fun and study!
+Now you can write with GUI editor with jekyll-admin
 
 ## Development Environment
 
