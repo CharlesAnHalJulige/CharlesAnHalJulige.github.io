@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "37th Study Result"
+title:  "35th Study Result"
 categories: jekyll update
 ---
 
 #### Harley
-- tb testd
+- tbd
 
 #### Paige
 - tbd
