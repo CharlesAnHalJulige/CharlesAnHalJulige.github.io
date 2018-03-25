@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "36th Study Result"
+title:  "35th Study Result"
 categories: jekyll update
 ---
 
